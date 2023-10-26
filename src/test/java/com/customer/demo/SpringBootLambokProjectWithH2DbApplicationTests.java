@@ -11,3 +11,4 @@ class SpringBootLambokProjectWithH2DbApplicationTests {
 	}
 
 }
+
